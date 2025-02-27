@@ -4,7 +4,7 @@ const app=express();
 // //middleware
 // app.use('/home',(req,res)=>{
 //    //console.log(req);
-//     res.send('<h1>CHOMO  LAL POPAT</h1>');
+//     res.send('<h1>baaddd</h1>');
 //     console.log(res);
 // })
 
@@ -14,7 +14,7 @@ app.listen(8080,()=>{
 
 //get()
 app.get('/thakgaye',(req,res)=>{
-    res.send('<h1>LAVA TAKAT 100<h1>')
+    res.send('<h1>hiiii<h1>')
     console.log(res);
 })
 
